@@ -1,0 +1,259 @@
+.desktop1 {
+    background-color: $light-salmon;
+    padding: 83px 726px 84px;
+    box-shadow: 0 4px 0 0 $transparent-black;
+    position: relative;
+  }
+  .tel {
+    width: 468px;
+    height: 913px;
+    background-color: $dark-slate-blue;
+    border-radius: 55px;
+    box-shadow: 0 16px 29px 13px $transparent-black;
+    position: relative;
+  }
+  .rectangle2 {
+    width: 468px;
+    height: 783px;
+    background-color: $slate-gray;
+    border-radius: 55px;
+    position: absolute;
+    left: 726px;
+    bottom: 84px;
+  }
+  .item {
+    background-color: $dark-slate-blue;
+    border-radius: 42px;
+    padding: 0 22px 0 32px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 756px;
+    top: 357px;
+  }
+  .text {
+    height: 70px;
+    width: 258px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: $white;
+    display: flex;
+    align-items: center;
+  }
+  .itemRight {
+    background-color: $light-salmon;
+    border-radius: 66px;
+    padding: 0 19px 0 37px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    right: 756px;
+    top: 447px;
+  }
+  .textTwo {
+    height: 70px;
+    width: 264px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: $white;
+    display: flex;
+    align-items: center;
+  }
+  .itemTwo {
+    padding: 0 0 0 29px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 756px;
+    bottom: 473px;
+  }
+  .rectangle7 {
+    width: 204px;
+    height: 70px;
+    background-color: $dark-slate-blue;
+    border-radius: 53px;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .textThree {
+    height: 70px;
+    width: 209px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: $white;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .itemRightTwo {
+    padding: 1px 9px 0 0;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 747px;
+    bottom: 391px;
+  }
+  .rectangle8 {
+    width: 134px;
+    height: 70px;
+    background-color: $light-salmon;
+    border-radius: 51px;
+    position: relative;
+  }
+  .textFour {
+    height: 71px;
+    width: 118px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: $white;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 25px;
+    top: 0;
+  }
+  .itemThree {
+    background-color: $dark-slate-blue;
+    border-radius: 42px;
+    padding: 0 5.96px 0 29px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 756px;
+    top: 267px;
+  }
+  .textFive {
+    height: 70px;
+    width: 215px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: $white;
+    display: flex;
+    align-items: center;
+  }
+  .user {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 756px;
+    top: 106px;
+  }
+  .profilePic {
+    width: 75px;
+    height: 72px;
+    margin-right: 13px;
+    border: 6px solid $dark-slate-blue-2;
+    border-radius: 105px;
+  }
+  .relativeWrapperOne {
+    margin-top: 9px;
+    margin-right: 157px;
+    position: relative;
+  }
+  .userName {
+    max-width: 137px;
+    font-family: "Poppins";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: normal;
+    color: $white;
+    position: relative;
+  }
+  .status {
+    max-width: 63px;
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: normal;
+    color: $white;
+    position: absolute;
+    left: 0;
+    bottom: -18px;
+  }
+  .other {
+    margin-top: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .ellipse4 {
+    width: 8px;
+    height: 8px;
+    background-color: $white;
+    border-radius: 50%;
+    &:not(:last-of-type) {
+      margin-bottom: 4px;
+    }
+  }
+  .button {
+    background-color: $white;
+    border-radius: 50%;
+    padding: 21px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 744px;
+    bottom: 110px;
+  }
+  .attachPaperclipSymbol1 {
+    width: 38px;
+    height: 38px;
+  }
+  .input {
+    background-color: $white;
+    border-radius: 55px;
+    padding: 23px 78px 22px 24px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 744px;
+    bottom: 110px;
+  }
+  .inputEmoji {
+    margin-right: 13px;
+    border-radius: 50%;
+    padding: 5.85px 5.05px 5.05px 5.45px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 3px solid $dark-gray;
+  }
+  .flexWrapperOne {
+    margin-bottom: 4.03px;
+    padding: 0 0 0 1.21px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .ellipse2 {
+    width: 4.02px;
+    height: 4.02px;
+    background-color: $dark-gray;
+    border-radius: 50%;
+    &:not(:last-of-type) {
+      margin-right: 5.64px;
+    }
+  }
+  .vector1 {
+    width: 16.5px;
+    height: 8.05px;
+  }
+  .inputMessage {
+    max-width: 194px;
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    color: $dark-gray;
+    margin-top: 5px;
+  }
