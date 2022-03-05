@@ -5,5 +5,3 @@
 
 ### USER 1
 ![Jessica](https://user-images.githubusercontent.com/91543268/156176581-756c55e4-2c67-4f19-8901-678cfbcc653e.png)
-### USER 2
-![Peter](https://user-images.githubusercontent.com/91543268/156176592-144ad933-01e9-4a5c-bea0-94e096f69c3c.png)
